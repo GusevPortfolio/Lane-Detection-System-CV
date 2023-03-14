@@ -39,7 +39,7 @@ Second iterations:
 
 Third iterations (final):
 
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%201.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%203.1.jpg)
