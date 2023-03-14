@@ -5,7 +5,7 @@ This article is a part of an assignment for the Multiple View Geometry in Comput
 The whole process and explanations could be founded in Computer Vision - assign. #1.pdf
 
 Initial code was taken from the “OpenCV Python Tutorial for Beginners 31 - Road Lane Line Detection with OpenCV”. GitHub repository [pknowledge/detector.py]. 
-The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Computer-Vision].  
+The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Lane-Detection-System].  
 
 
 ### Initial photos:
@@ -16,12 +16,12 @@ The finalized version of the project, as well as the videos, could be founded in
 ![Initial_photo](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test4.1.jpg)
 
 
-### First iterations (initial algorithm):
+### Third iterations (final algorithm):
 
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%201.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%201.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%203.1.jpg)
 
 
 ### Second iterations (first algorithm):
@@ -32,9 +32,9 @@ The finalized version of the project, as well as the videos, could be founded in
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%202.1.jpg)
 
 
-### Third iterations (final algorithm):
+### First iterations (initial algorithm):
 
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%203.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%203.1.jpg)
-![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%203.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%201.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%201.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%201.1.jpg)
+![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%201.1.jpg)
