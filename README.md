@@ -12,5 +12,5 @@ Initial photos:
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test1.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test2.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test3.jpg)
-![Image alt](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test4.jpg)
+![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test4.jpg)
 
