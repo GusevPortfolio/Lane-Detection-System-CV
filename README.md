@@ -8,9 +8,11 @@ Initial code was taken from the “OpenCV Python Tutorial for Beginners 31 - Roa
 The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Computer-Vision].  
 
 Initial photos:
-![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/road.jpg)
+![Image init](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test1.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test1.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test2.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test3.jpg)
 ![Image init](https://github.com/GusevPortfolio/Computer-Vision/raw/master/Initials/Test4.jpg)
+
+https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test1.jpg
 
