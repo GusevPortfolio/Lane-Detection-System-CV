@@ -7,7 +7,7 @@ The whole process and explanations could be founded in Computer Vision - assign.
 Initial code was taken from the “OpenCV Python Tutorial for Beginners 31 - Road Lane Line Detection with OpenCV”. GitHub repository [pknowledge/detector.py]. 
 The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Computer-Vision].  
 
-##Initial photos:
+## Initial photos:
 
 ![Initial_photo](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test1.1.jpg)
 ![Initial_photo](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test2.1.jpg)
@@ -17,7 +17,7 @@ The finalized version of the project, as well as the videos, could be founded in
 
 
 
-##First iterations (initial):
+## First iterations (initial):
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%201.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%201.1.jpg)
@@ -27,7 +27,7 @@ The finalized version of the project, as well as the videos, could be founded in
 
 
 
-##Second iterations:
+## Second iterations:
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%202.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%202.1.jpg)
@@ -37,7 +37,7 @@ The finalized version of the project, as well as the videos, could be founded in
 
 
 
-##Third iterations (final):
+## Third iterations (final):
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%203.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
