@@ -16,7 +16,7 @@ The finalized version of the project, as well as the videos, could be founded in
 ![Initial_photo](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test4.1.jpg)
 
 
-### First iterations (initial):
+### First iterations (initial algorithm):
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%201.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%201.1.jpg)
@@ -24,7 +24,7 @@ The finalized version of the project, as well as the videos, could be founded in
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%201.1.jpg)
 
 
-### Second iterations:
+### Second iterations (first algorithm):
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%202.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%202.1.jpg)
@@ -32,7 +32,7 @@ The finalized version of the project, as well as the videos, could be founded in
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%202.1.jpg)
 
 
-### Third iterations (final):
+### Third iterations (final algorithm):
 
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%201%20%3D%203.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
