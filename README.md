@@ -1,4 +1,4 @@
-# Lane Detection Assistant
+# Lane Detection Assistant / Computer Vision
 
 This article is a part of an assignment for the Multiple View Geometry in Computer Vision module taken at the Atlantic Technological University. The purpose is to implement lane detection and investigate the efficiency of the various hyperparameters settings. As the test video was taken, video from Sligo, Ireland (test video).  
 
