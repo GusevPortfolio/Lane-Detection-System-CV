@@ -7,7 +7,7 @@ The whole process and explanations could be founded in Computer Vision - assign.
 Initial code was taken from the “OpenCV Python Tutorial for Beginners 31 - Road Lane Line Detection with OpenCV”. GitHub repository [pknowledge/detector.py]. 
 The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Lane-Detection-System].  
 
-<br
+<br/>
     
 ### Initial photos:
 
