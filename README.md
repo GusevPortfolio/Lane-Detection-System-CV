@@ -32,7 +32,3 @@ The finalized version of the project, as well as the videos, could be founded in
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%202%20%3D%203.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%203%20%3D%203.1.jpg)
 ![First_iteration](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Results/Test%204%20%3D%203.1.jpg)
-
-
-
-
