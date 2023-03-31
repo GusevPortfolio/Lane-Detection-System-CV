@@ -9,6 +9,7 @@ The finalized version of the project, as well as the videos, could be founded in
 
 <br/>
     
+   
 ### Initial photos:
 
 ![Initial_photo](https://github.com/GusevPortfolio/Computer-Vision/blob/main/Initials/Test1.1.jpg)
