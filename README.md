@@ -8,7 +8,6 @@ Initial code was taken from the “OpenCV Python Tutorial for Beginners 31 - Roa
 The finalized version of the project, as well as the videos, could be founded in a GitHub repository [GusevPortfolio/Lane-Detection-System].  
 
 <br/>
-    
    
 ### Initial photos:
 
